@@ -1,4 +1,4 @@
-# Atividade sobre Diagrama de Classe - 24/10/2021
+# Atividade Diagrama de Classe - 24/10/2021
 Em desenvolvimento de sistemas, expecificamente em programação orientada a objetos (POO), classes são abstrações de um conjunto de objetos da vida real, que apresentam características similares.
 O diagrama de classe é utilizado para ilustrar a estrutura de um software.
 Esse tipo de diagrama faz parte da Unified Modeling Language (UML) e podem ser utilizadas para o levamento de requisitos funcionais do sistema.
